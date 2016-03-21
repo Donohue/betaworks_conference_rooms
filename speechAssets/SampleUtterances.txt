@@ -1,0 +1,27 @@
+CalendarNowIntent which rooms are available
+CalendarNowIntent what rooms are available
+CalendarNowIntent which conference rooms are available
+CalendarNowIntent what conference rooms are available
+CalendarNowIntent which rooms are open
+CalendarNowIntent what rooms are open
+CalendarNowIntent which conference rooms are open
+CalendarNowIntent what conference rooms are open
+CalendarNowIntent which rooms are available now
+CalendarNowIntent what rooms are available now
+CalendarNowIntent which conference rooms are available now
+CalendarNowIntent what conference rooms are available now
+CalendarNowIntent which rooms are open now
+CalendarNowIntent what rooms are open now
+CalendarNowIntent which conference rooms are open now
+CalendarNowIntent what conference rooms are open now
+
+CalendarTimeIntent which rooms are available {time}
+CalendarTimeIntent what rooms are available {time}
+CalendarTimeIntent which conference rooms are available {time}
+CalendarTimeIntent what conference rooms are available {time}
+CalendarTimeIntent which rooms are open {time}
+CalendarTimeIntent what rooms are open {time}
+CalendarTimeIntent which conference rooms are open {time}
+CalendarTimeIntent what conference rooms are open {time}
+CalendarTimeIntent which rooms are available at {time}
+CalendarTimeIntent what rooms are available at {time}

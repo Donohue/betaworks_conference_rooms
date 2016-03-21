@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.swo
+*.zip
+auth/
+site-packages/
+venv/

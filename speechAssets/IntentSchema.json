@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "CalendarNowIntent"
+    },
+    {
+      "intent": "CalendarTimeIntent",
+      "slots": [
+        {
+          "name": "time",
+          "type": "AMAZON.TIME"
+        }
+      ]
+    }
+  ]
+}
